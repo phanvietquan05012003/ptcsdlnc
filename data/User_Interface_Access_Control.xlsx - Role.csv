@@ -1,0 +1,4 @@
+RoleID,RoleName,Description
+1,Admin,Quan tri vien he thong voi quyen truy cap toan bo cac tinh nang.
+2,Manager,"Nguoi quan ly co the theo doi va phan cong nhiem vu, quan ly tai nguyen."
+3,Employee,Nhan vien chi co quyen truy cap de thuc hien cong viec duoc phan cong.

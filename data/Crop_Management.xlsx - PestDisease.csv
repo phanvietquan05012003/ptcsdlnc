@@ -1,0 +1,26 @@
+PestDiseaseID,CropID,PestType,DetectionDate,Status
+601,102,Nam,2024-04-11,Nghiem trong
+602,119,Rep,2024-11-06,Nghiem trong
+603,115,Bo canh cung,2024-06-12,Da kiem soat
+604,121,Nam,2024-06-05,Nghiem trong
+605,109,Nam,2024-06-25,Da kiem soat
+606,103,Rep,2024-02-27,Da kiem soat
+607,120,Rep,2024-11-04,Nghiem trong
+608,101,Rep,2024-01-24,Da kiem soat
+609,116,Rep,2024-11-29,Da kiem soat
+610,121,Bo canh cung,2024-09-28,Da kiem soat
+611,115,Nam,2024-11-06,Da kiem soat
+612,122,Rep,2024-03-10,Da kiem soat
+613,106,Nam,2024-07-03,Nghiem trong
+614,123,Rep,2024-01-03,Da kiem soat
+615,110,Bo canh cung,2024-04-27,Nghiem trong
+616,112,Nam,2024-01-15,Da kiem soat
+617,120,Rep,2024-06-17,Nghiem trong
+618,109,Nam,2024-01-27,Nghiem trong
+619,121,Rep,2024-01-05,Da kiem soat
+620,125,Bo canh cung,2024-08-18,Da kiem soat
+621,107,Nam,2024-06-27,Da kiem soat
+622,115,Rep,2024-02-29,Da kiem soat
+623,122,Rep,2024-08-28,Da kiem soat
+624,119,Bo canh cung,2024-10-30,Da kiem soat
+625,105,Rep,2024-09-28,Nghiem trong

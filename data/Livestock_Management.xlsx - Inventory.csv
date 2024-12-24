@@ -1,0 +1,30 @@
+InventoryID,ItemType,ItemName,Quantity,Supplier,DateReceived,ExpirationDate
+1,Thiet bi,Mang nuoc,"18,49",Nha cung cap Nong san C,2023-03-01,2024-12-11
+2,Thiet bi,Mang nuoc,"20,92",Nha cung cap Nong san C,2023-03-12,2024-08-21
+3,Thiet bi,Mang nuoc,"17,73",Cong ty CP Nong nghiep A,2023-06-04,2024-11-26
+4,Thiet bi,Mang nuoc,"23,03",Nha cung cap Nong san C,2023-12-01,2024-04-20
+5,Thuoc,Vac xin,"19,77",Hop tac xa B,2023-05-10,2024-03-24
+6,Thuc an,Thuc an ngo,"310,57",Nha cung cap Nong san C,2023-03-03,2024-03-10
+7,Thuc an,Thuc an ngo,"400,45",Nha cung cap Nong san C,2023-02-22,2024-06-28
+8,Thuc an,Thuc an ngo,"393,59",Hop tac xa B,2023-07-23,2024-11-11
+9,Thiet bi,Mang nuoc,"43,47",Nha cung cap Nong san C,2023-02-27,2024-11-06
+10,Thiet bi,Mang nuoc,"29,48",Cong ty CP Nong nghiep A,2023-12-10,2024-04-11
+11,Thiet bi,Mang nuoc,"14,95",Hop tac xa B,2023-06-06,2024-10-19
+12,Thiet bi,Mang nuoc,"49,74",Hop tac xa B,2023-03-15,2024-04-20
+13,Thuc an,Thuc an ngo,"129,37",Cong ty CP Nong nghiep A,2023-10-14,2024-07-10
+14,Thiet bi,Mang nuoc,"35,18",Cong ty CP Nong nghiep A,2023-09-05,2024-12-18
+15,Thiet bi,Mang nuoc,"40,26",Hop tac xa B,2023-03-14,2024-07-17
+16,Thiet bi,Mang nuoc,"21,01",Nha cung cap Nong san C,2023-01-14,2024-09-06
+17,Thiet bi,Mang nuoc,"39,85",Nha cung cap Nong san C,2023-03-31,2024-09-17
+18,Thuc an,Thuc an ngo,"165,72",Hop tac xa B,2023-08-17,2024-10-07
+19,Thiet bi,Mang nuoc,32,Nha cung cap Nong san C,2023-10-02,2024-12-03
+20,Thuc an,Thuc an ngo,"154,88",Hop tac xa B,2023-12-18,2024-05-13
+21,Thiet bi,Mang nuoc,"38,38",Nha cung cap Nong san C,2023-03-11,2024-04-26
+22,Thuoc,Vac xin,"18,54",Nha cung cap Nong san C,2023-03-11,2024-02-09
+23,Thuoc,Vac xin,"17,36",Hop tac xa B,2023-08-06,2024-02-09
+24,Thuoc,Vac xin,"14,35",Hop tac xa B,2023-05-02,2024-04-29
+25,Thuc an,Thuc an ngo,"322,55",Nha cung cap Nong san C,2023-01-13,2024-06-07
+26,Thuc an,Co xanh,"125,3",Cong ty CP Nong nghiep A,2023-12-18,2024-10-16
+27,Thuoc,Thuc an bo sung,"259,47",Cong ty CP Nong nghiep A,2023-10-19,2024-08-05
+28,Thuoc,Khang sinh,"298,71",Hop tac xa B,2023-12-14,2024-07-10
+29,Thuc an,Co kho,"156,59",Nha cung cap Nong san C,2024-01-01,2024-02-28

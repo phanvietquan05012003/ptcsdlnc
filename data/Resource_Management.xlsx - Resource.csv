@@ -1,0 +1,55 @@
+ResourceID,ResourceType,ResourceName,Quantity,Supplier,DateReceived,ExpirationDate
+1,Thiet bi,Bom nuoc,"389,31",Nha cung cap Nong san C,2023-09-07,2024-06-30
+2,Phan bon,Phan huu co,"368,68",Cong ty CP Nong nghiep A,2023-09-04,2024-08-17
+3,Thiet bi,May gieo hat,"417,69",Nha cung cap Nong san C,2023-05-06,2024-11-08
+4,Phan bon,Phan NPK,"240,76",Nha cung cap Nong san C,2023-04-14,2024-09-06
+5,Hat giong,Hat giong ca chua,"471,37",Cong ty CP Nong nghiep A,2023-06-25,2024-09-10
+6,Phan bon,Phan NPK,"276,49",Nha cung cap Nong san C,2023-11-20,2024-06-12
+7,Hat giong,Hat giong cai xanh,"154,04",Cong ty CP Nong nghiep A,2023-03-27,2024-10-15
+8,Phan bon,Phan kali,"192,57",Nha cung cap Nong san C,2023-05-09,2024-07-28
+9,Thiet bi,Bom nuoc,"249,26",Hop tac xa B,2023-07-12,2024-11-23
+10,Phan bon,Phan huu co,"23,12",Nha cung cap Nong san C,2023-07-12,2024-01-13
+11,Phan bon,Phan NPK,"363,43",Hop tac xa B,2023-01-23,2024-11-19
+12,Hat giong,Hat giong ca chua,"396,08",Cong ty CP Nong nghiep A,2023-01-14,2024-09-23
+13,Thiet bi,May cay,"347,33",Hop tac xa B,2023-08-27,2024-06-02
+14,Phan bon,Phan NPK,"12,26",Nha cung cap Nong san C,2023-03-01,2024-02-06
+15,Hat giong,Hat giong dua leo,"136,77",Nha cung cap Nong san C,2023-07-27,2024-05-16
+16,Phan bon,Phan kali,"262,35",Cong ty CP Nong nghiep A,2023-08-03,2024-04-27
+17,Phan bon,Phan kali,"279,96",Cong ty CP Nong nghiep A,2023-01-25,2024-03-15
+18,Thiet bi,May gieo hat,"467,53",Nha cung cap Nong san C,2023-04-11,2024-11-11
+19,Thiet bi,May cay,"59,48",Nha cung cap Nong san C,2023-12-15,2024-05-11
+20,Hat giong,Hat giong cai xanh,"133,37",Hop tac xa B,2023-02-14,2024-05-24
+21,Phan bon,Phan NPK,"308,34",Cong ty CP Nong nghiep A,2023-02-23,2024-12-05
+22,Thiet bi,May gieo hat,"63,05",Hop tac xa B,2023-09-20,2024-05-02
+23,Thiet bi,May cay,"446,51",Cong ty CP Nong nghiep A,2023-08-14,2024-03-26
+24,Phan bon,Phan kali,"393,09",Nha cung cap Nong san C,2023-03-16,2024-04-07
+25,Phan bon,Phan NPK,"186,12",Hop tac xa B,2023-12-27,2024-05-21
+26,Thiet bi,Mang nuoc,"18,49",Nha cung cap Nong san C,2023-03-01,2024-12-11
+27,Thiet bi,Mang nuoc,"20,92",Nha cung cap Nong san C,2023-03-12,2024-08-21
+28,Thiet bi,Mang nuoc,"17,73",Cong ty CP Nong nghiep A,2023-06-04,2024-11-26
+29,Thiet bi,Mang nuoc,"23,03",Nha cung cap Nong san C,2023-12-01,2024-04-20
+30,Phan bon,Vac xin,"19,77",Hop tac xa B,2023-05-10,2024-03-24
+31,Hat giong,Thuc an ngo,"310,57",Nha cung cap Nong san C,2023-03-03,2024-03-10
+32,Hat giong,Thuc an ngo,"400,45",Nha cung cap Nong san C,2023-02-22,2024-06-28
+33,Hat giong,Thuc an ngo,"393,59",Hop tac xa B,2023-07-23,2024-11-11
+34,Thiet bi,Mang nuoc,"43,47",Nha cung cap Nong san C,2023-02-27,2024-11-06
+35,Thiet bi,Mang nuoc,"29,48",Cong ty CP Nong nghiep A,2023-12-10,2024-04-11
+36,Thiet bi,Mang nuoc,"14,95",Hop tac xa B,2023-06-06,2024-10-19
+37,Thiet bi,Mang nuoc,"49,74",Hop tac xa B,2023-03-15,2024-04-20
+38,Hat giong,Thuc an ngo,"129,37",Cong ty CP Nong nghiep A,2023-10-14,2024-07-10
+39,Thiet bi,Mang nuoc,"35,18",Cong ty CP Nong nghiep A,2023-09-05,2024-12-18
+40,Thiet bi,Mang nuoc,"40,26",Hop tac xa B,2023-03-14,2024-07-17
+41,Thiet bi,Mang nuoc,"21,01",Nha cung cap Nong san C,2023-01-14,2024-09-06
+42,Thiet bi,Mang nuoc,"39,85",Nha cung cap Nong san C,2023-03-31,2024-09-17
+43,Hat giong,Thuc an ngo,"165,72",Hop tac xa B,2023-08-17,2024-10-07
+44,Thiet bi,Mang nuoc,32,Nha cung cap Nong san C,2023-10-02,2024-12-03
+45,Hat giong,Thuc an ngo,"154,88",Hop tac xa B,2023-12-18,2024-05-13
+46,Thiet bi,Mang nuoc,"38,38",Nha cung cap Nong san C,2023-03-11,2024-04-26
+47,Phan bon,Vac xin,"18,54",Nha cung cap Nong san C,2023-03-11,2024-02-09
+48,Phan bon,Vac xin,"17,36",Hop tac xa B,2023-08-06,2024-02-09
+49,Phan bon,Vac xin,"14,35",Hop tac xa B,2023-05-02,2024-04-29
+50,Hat giong,Thuc an ngo,"322,55",Nha cung cap Nong san C,2023-01-13,2024-06-07
+51,Hat giong,Co xanh,"125,3",Cong ty CP Nong nghiep A,2023-12-18,2024-10-16
+52,Phan bon,Thuc an bo sung,"259,47",Cong ty CP Nong nghiep A,2023-10-19,2024-08-05
+53,Phan bon,Khang sinh,"298,71",Hop tac xa B,2023-12-14,2024-07-10
+54,Hat giong,Co kho,"156,59",Nha cung cap Nong san C,2024-01-01,2024-02-28

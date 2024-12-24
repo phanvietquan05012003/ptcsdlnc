@@ -1,0 +1,16 @@
+EmployeeID,Name,Position,ContactInfo,AssignedFarmID
+1,Hoang Phuc Nhan,Cong nhan,hoangphucnhan@langbiang.vn,5
+2,Phan Viet Quan,Ky su nong nghiep,phanvietquan@langbiang.vn,4
+3,Dinh Thanh Huyen,Ky su nong nghiep,dinhthanhhuyen@langbiang.vn,4
+4,Dang Nhu Quynh,Cong nhan,dangnhuquynh@langbiang.vn,4
+5,Vu Thi Quynh Anh,Thu kho,vuthiquynhanh@langbiang.vn,3
+6,My Tam,Thu kho,mytam@langbiang.vn,3
+7,Ngo Kien Huy,Ky su nong nghiep,ngokienhuy@langbiang.vn,5
+8,Truc Nhan,Cong nhan,trucnhan@langbiang.vn,4
+9,Bich Phuong,Quan ly,bichphuong@langbiang.vn,4
+10,Nguyen Thanh Tung,Ky su nong nghiep,sontungmtp@langbiang.vn,4
+11,Trinh Tran Phuong Tuan,Cong nhan,jack@langbiang.vn,4
+12,Den Vau,Ky su nong nghiep,denvau@langbiang.vn,5
+13,Duc Phuc,Cong nhan,ducphuc@langbiang.vn,4
+14,Min,Ky su nong nghiep,min@langbiang.vn,1
+15,Pham Van Dai,Ky su nong nghiep,virgilvandai@langbiang.vn,3

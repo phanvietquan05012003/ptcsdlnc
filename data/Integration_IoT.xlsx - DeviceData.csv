@@ -1,0 +1,51 @@
+DataID,DeviceID,Timestamp,DataType,Value,DeviceType
+1,4,2023-12-02 00:00:00,Do am,56,Cam bien do am
+2,8,2023-12-30 00:00:00,Cuong do anh sang,533,Cam bien anh sang
+3,9,2023-12-02 00:00:00,Do am,73,Cam bien do am
+4,8,2023-12-29 00:00:00,Do am dat,70,Cam bien do am dat
+5,2,2023-12-22 00:00:00,Do am,70,Cam bien do am
+6,2,2023-12-28 00:00:00,Do am,73,Cam bien do am
+7,11,2023-12-17 00:00:00,Do am,76,Cam bien do am
+8,15,2023-12-05 00:00:00,Nhiet do,15,Cam bien nhiet do
+9,15,2023-12-04 00:00:00,Cuong do anh sang,510,Cam bien anh sang
+10,6,2023-12-07 00:00:00,Do am dat,30,Cam bien do am dat
+11,2,2023-12-29 00:00:00,Do am dat,40,Cam bien do am dat
+12,14,2023-12-23 00:00:00,Cuong do anh sang,999,Cam bien anh sang
+13,12,2023-12-21 00:00:00,Do am dat,66,Cam bien do am dat
+14,2,2023-12-24 00:00:00,Nhiet do,19,Cam bien nhiet do
+15,4,2023-12-19 00:00:00,Do am,86,Cam bien do am
+16,7,2023-12-06 00:00:00,Cuong do anh sang,919,Cam bien anh sang
+17,2,2023-12-30 00:00:00,Nhiet do,30,Cam bien nhiet do
+18,2,2023-12-26 00:00:00,Cuong do anh sang,909,Cam bien anh sang
+19,2,2023-12-18 00:00:00,Cuong do anh sang,818,Cam bien anh sang
+20,13,2023-12-26 00:00:00,Do am,69,Cam bien do am
+21,13,2023-12-05 00:00:00,Do am dat,41,Cam bien do am dat
+22,14,2023-12-03 00:00:00,Do am dat,66,Cam bien do am dat
+23,3,2023-12-17 00:00:00,Do am,76,Cam bien do am
+24,10,2023-12-02 00:00:00,Do am dat,55,Cam bien do am dat
+25,9,2023-12-20 00:00:00,Do am dat,55,Cam bien do am dat
+26,2,2023-12-10 00:00:00,Nhiet do,16,Cam bien nhiet do
+27,9,2023-12-02 00:00:00,Do am dat,24,Cam bien do am dat
+28,9,2023-12-10 00:00:00,Cuong do anh sang,1045,Cam bien anh sang
+29,1,2023-12-06 00:00:00,Do am,52,Cam bien do am
+30,7,2023-12-18 00:00:00,Nhiet do,31,Cam bien nhiet do
+31,3,2023-12-27 00:00:00,Nhiet do,33,Cam bien nhiet do
+32,14,2023-12-10 00:00:00,Nhiet do,28,Cam bien nhiet do
+33,9,2023-12-14 00:00:00,Do am,90,Cam bien do am
+34,10,2024-01-01 00:00:00,Do am dat,58,Cam bien do am dat
+35,9,2023-12-18 00:00:00,Cuong do anh sang,673,Cam bien anh sang
+36,5,2023-12-02 00:00:00,Nhiet do,23,Cam bien nhiet do
+37,5,2023-12-10 00:00:00,Cuong do anh sang,921,Cam bien anh sang
+38,3,2023-12-12 00:00:00,Do am dat,31,Cam bien do am dat
+39,6,2024-01-01 00:00:00,Do am dat,54,Cam bien do am dat
+40,5,2023-12-19 00:00:00,Do am,67,Cam bien do am
+41,9,2023-12-27 00:00:00,Do am dat,76,Cam bien do am dat
+42,8,2023-12-10 00:00:00,Do am dat,51,Cam bien do am dat
+43,3,2023-12-09 00:00:00,Cuong do anh sang,488,Cam bien anh sang
+44,3,2023-12-07 00:00:00,Cuong do anh sang,711,Cam bien anh sang
+45,9,2023-12-27 00:00:00,Cuong do anh sang,952,Cam bien anh sang
+46,5,2023-12-05 00:00:00,Do am,54,Cam bien do am
+47,12,2023-12-09 00:00:00,Do am,89,Cam bien do am
+48,11,2023-12-02 00:00:00,Do am dat,76,Cam bien do am dat
+49,9,2023-12-25 00:00:00,Do am,61,Cam bien do am
+50,15,2023-12-15 00:00:00,Nhiet do,24,Cam bien nhiet do

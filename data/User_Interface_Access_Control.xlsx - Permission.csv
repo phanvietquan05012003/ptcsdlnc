@@ -1,0 +1,5 @@
+PermissionID,PermissionName,Description
+1,ViewDashboard,Xem bang dieu khien tong quan ve he thong.
+2,EditProfile,Chinh sua thong tin ca nhan cua tai khoan.
+3,ManageUsers,Quan ly tai khoan nguoi dung trong he thong.
+4,AccessReports,Xem va truy cap cac bao cao lien quan.

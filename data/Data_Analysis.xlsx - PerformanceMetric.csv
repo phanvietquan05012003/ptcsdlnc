@@ -1,0 +1,6 @@
+MetricID,MetricName,MetricType,Description
+1,Nhiet do trung binh,Environmental,Theo doi nhiet do trung binh trong khu vuc.
+2,Do am trung binh,Environmental,Theo doi do am trung binh trong khu vuc.
+3,Tang truong cay trong,Agricultural,Do luong toc do tang truong cay trong hang ngay.
+4,San luong thu hoach,Agricultural,Theo doi tong san luong thu hoach moi tuan.
+5,Hieu qua su dung nuoc,Efficiency,Theo doi ty le su dung nuoc tren dien tich dat.

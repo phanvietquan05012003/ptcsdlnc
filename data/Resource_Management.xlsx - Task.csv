@@ -1,0 +1,26 @@
+TaskID,EmployeeID,TaskName,Description,StartDate,EndDate,Status
+1,4,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-10,2024-01-18,Hoan thanh
+2,15,Bon phan,Phan bon duoc trai deu theo quy dinh de tang nang suat cay trong,2023-12-15,2024-01-22,Dang thuc hien
+3,12,Bon phan,Phan bon duoc trai deu theo quy dinh de tang nang suat cay trong,2023-12-24,2024-01-17,Hoan thanh
+4,9,Kiem tra thiet bi,Kiem tra va bao duong thiet bi nong nghiep trong kho,2023-12-11,2024-01-24,Dang cho
+5,8,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-21,2024-01-03,Dang thuc hien
+6,12,Bon phan,Phan bon duoc trai deu theo quy dinh de tang nang suat cay trong,2023-12-18,2024-01-15,Hoan thanh
+7,9,Kiem tra thiet bi,Kiem tra va bao duong thiet bi nong nghiep trong kho,2023-12-23,2024-01-21,Dang cho
+8,14,Bon phan,Phan bon duoc trai deu theo quy dinh de tang nang suat cay trong,2023-12-06,2024-01-30,Dang thuc hien
+9,8,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-21,2024-01-12,Dang thuc hien
+10,4,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-13,2024-01-28,Dang cho
+11,14,Gieo hat,Thuc hien gieo hat giong tren luong dat da chuan bi,2023-12-03,2024-01-16,Hoan thanh
+12,9,Kiem tra thiet bi,Kiem tra va bao duong thiet bi nong nghiep trong kho,2023-12-05,2024-01-05,Dang cho
+13,9,Kiem tra thiet bi,Kiem tra va bao duong thiet bi nong nghiep trong kho,2023-12-12,2024-01-10,Dang thuc hien
+14,10,Bon phan,Phan bon duoc trai deu theo quy dinh de tang nang suat cay trong,2023-12-03,2024-01-25,Dang thuc hien
+15,14,Gieo hat,Thuc hien gieo hat giong tren luong dat da chuan bi,2023-12-21,2024-01-03,Hoan thanh
+16,4,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-31,2024-01-30,Dang thuc hien
+17,14,Bon phan,Phan bon duoc trai deu theo quy dinh de tang nang suat cay trong,2023-12-11,2024-01-24,Dang thuc hien
+18,8,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-07,2024-01-15,Dang thuc hien
+19,11,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-16,2024-01-25,Hoan thanh
+20,10,Gieo hat,Thuc hien gieo hat giong tren luong dat da chuan bi,2023-12-31,2024-01-08,Dang cho
+21,13,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-21,2024-01-14,Hoan thanh
+22,12,Gieo hat,Thuc hien gieo hat giong tren luong dat da chuan bi,2023-12-31,2024-01-04,Hoan thanh
+23,12,Gieo hat,Thuc hien gieo hat giong tren luong dat da chuan bi,2023-12-19,2024-01-24,Hoan thanh
+24,11,Thu hoach,Thu hoach cay trong da truong thanh theo ke hoach,2023-12-31,2024-01-20,Dang thuc hien
+25,9,Kiem tra thiet bi,Kiem tra va bao duong thiet bi nong nghiep trong kho,2023-12-11,2024-01-25,Dang cho

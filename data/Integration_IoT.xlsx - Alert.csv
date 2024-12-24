@@ -1,0 +1,76 @@
+AlertID,DeviceID,AlertType,AlertDate,Description,ResolvedStatus
+1,4,Pin yeu,2023-12-18,Phat hien su co: Pin yeu. Thiet bi tai Nha kinh 1,Da giai quyet
+2,5,Mat ket noi,2023-12-10,Phat hien su co: Mat ket noi. Thiet bi tai Canh dong B,Da giai quyet
+3,10,Do am thap,2023-12-11,Phat hien su co: Do am thap. Thiet bi tai Nha kinh 2,Chua giai quyet
+4,1,Do am thap,2023-12-12,Phat hien su co: Do am thap. Thiet bi tai Nha kinh 1,Da giai quyet
+5,8,Do am thap,2023-12-17,Phat hien su co: Do am thap. Thiet bi tai Nha kinh 2,Da giai quyet
+6,5,Pin yeu,2023-12-17,Phat hien su co: Pin yeu. Thiet bi tai Canh dong B,Da giai quyet
+7,6,Pin yeu,2023-12-15,Phat hien su co: Pin yeu. Thiet bi tai Canh dong A,Chua giai quyet
+8,5,Mat ket noi,2023-12-06,Phat hien su co: Mat ket noi. Thiet bi tai Canh dong B,Chua giai quyet
+9,1,Mat ket noi,2023-12-24,Phat hien su co: Mat ket noi. Thiet bi tai Nha kinh 1,Chua giai quyet
+10,15,Mat ket noi,2023-12-25,Phat hien su co: Mat ket noi. Thiet bi tai Nha kinh 2,Chua giai quyet
+11,15,Mat ket noi,2023-12-27,Phat hien su co: Mat ket noi. Thiet bi tai Nha kinh 2,Chua giai quyet
+12,12,Nhiet do cao,2023-12-19,Phat hien su co: Nhiet do cao. Thiet bi tai Nha kinh 1,Chua giai quyet
+13,12,Do am thap,2023-12-10,Phat hien su co: Do am thap. Thiet bi tai Nha kinh 1,Chua giai quyet
+14,8,Nhiet do cao,2023-12-22,Phat hien su co: Nhiet do cao. Thiet bi tai Nha kinh 2,Da giai quyet
+15,6,Mat ket noi,2023-12-09,Phat hien su co: Mat ket noi. Thiet bi tai Canh dong A,Da giai quyet
+16,10,Nhiet do cao,2023-12-27,Phat hien su co: Nhiet do cao. Thiet bi tai Nha kinh 2,Chua giai quyet
+17,1,Nhiet do cao,2023-12-19,Phat hien su co: Nhiet do cao. Thiet bi tai Nha kinh 1,Da giai quyet
+18,13,Mat ket noi,2023-12-10,Phat hien su co: Mat ket noi. Thiet bi tai Nha kinh 2,Da giai quyet
+19,2,Nhiet do cao,2023-12-28,Phat hien su co: Nhiet do cao. Thiet bi tai Canh dong B,Da giai quyet
+20,7,Mat ket noi,2023-12-13,Phat hien su co: Mat ket noi. Thiet bi tai Canh dong B,Da giai quyet
+21,14,Nhiet do cao,2023-12-17,Phat hien su co: Nhiet do cao. Thiet bi tai Canh dong A,Chua giai quyet
+22,13,Pin yeu,2023-12-08,Phat hien su co: Pin yeu. Thiet bi tai Nha kinh 2,Chua giai quyet
+23,6,Nhiet do cao,2023-12-23,Phat hien su co: Nhiet do cao. Thiet bi tai Canh dong A,Chua giai quyet
+24,13,Pin yeu,2023-12-20,Phat hien su co: Pin yeu. Thiet bi tai Nha kinh 2,Chua giai quyet
+25,2,Pin yeu,2023-12-21,Phat hien su co: Pin yeu. Thiet bi tai Canh dong B,Da giai quyet
+26,4,Tot,2023-12-02,Gia tri Do am (55.88) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+27,8,Tot,2023-12-30,Gia tri Cuong do anh sang (533.11) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+28,9,Tot,2023-12-02,Gia tri Do am (73.0) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+29,8,Tot,2023-12-29,Gia tri Do am dat (69.55) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+30,2,Tot,2023-12-22,Gia tri Do am (69.75) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+31,2,Tot,2023-12-28,Gia tri Do am (72.83) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+32,11,Tot,2023-12-17,Gia tri Do am (75.77) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+33,15,Tot,2023-12-05,Gia tri Nhiet do (15.25) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+34,15,Tot,2023-12-04,Gia tri Cuong do anh sang (510.47) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+35,6,Tot,2023-12-07,Gia tri Do am dat (30.37) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+36,2,Tot,2023-12-29,Gia tri Do am dat (40.47) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+37,14,Tot,2023-12-23,Gia tri Cuong do anh sang (998.65) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+38,12,Tot,2023-12-21,Gia tri Do am dat (66.36) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+39,2,Tot,2023-12-24,Gia tri Nhiet do (18.5) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+40,4,Tot,2023-12-19,Gia tri Do am (85.65) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+41,7,Tot,2023-12-06,Gia tri Cuong do anh sang (918.82) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+42,2,Tot,2023-12-30,Gia tri Nhiet do (29.71) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+43,2,Tot,2023-12-26,Gia tri Cuong do anh sang (908.87) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+44,2,Tot,2023-12-18,Gia tri Cuong do anh sang (818.11) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+45,13,Tot,2023-12-26,Gia tri Do am (68.85) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+46,13,Tot,2023-12-05,Gia tri Do am dat (40.68) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+47,14,Tot,2023-12-03,Gia tri Do am dat (65.88) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+48,3,Tot,2023-12-17,Gia tri Do am (75.65) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+49,10,Tot,2023-12-02,Gia tri Do am dat (55.16) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+50,9,Tot,2023-12-20,Gia tri Do am dat (55.45) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+51,2,Tot,2023-12-10,Gia tri Nhiet do (16.11) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+52,9,Tot,2023-12-02,Gia tri Do am dat (23.89) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+53,9,Tot,2023-12-10,Gia tri Cuong do anh sang (1045.34) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+54,1,Tot,2023-12-06,Gia tri Do am (52.17) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+55,7,Tot,2023-12-18,Gia tri Nhiet do (31.06) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+56,3,Tot,2023-12-27,Gia tri Nhiet do (32.86) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+57,14,Tot,2023-12-10,Gia tri Nhiet do (27.85) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+58,9,Tot,2023-12-14,Gia tri Do am (89.7) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+59,10,Tot,2024-01-01,Gia tri Do am dat (58.28) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+60,9,Tot,2023-12-18,Gia tri Cuong do anh sang (672.53) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+61,5,Tot,2023-12-02,Gia tri Nhiet do (23.09) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet
+62,5,Tot,2023-12-10,Gia tri Cuong do anh sang (921.34) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+63,3,Tot,2023-12-12,Gia tri Do am dat (31.17) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+64,6,Tot,2024-01-01,Gia tri Do am dat (53.5) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+65,5,Tot,2023-12-19,Gia tri Do am (67.14) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+66,9,Tot,2023-12-27,Gia tri Do am dat (76.32) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+67,8,Tot,2023-12-10,Gia tri Do am dat (50.67) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+68,3,Tot,2023-12-09,Gia tri Cuong do anh sang (487.63) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+69,3,Tot,2023-12-07,Gia tri Cuong do anh sang (711.09) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+70,9,Tot,2023-12-27,Gia tri Cuong do anh sang (952.21) nam trong nguong tieu chuan (300.0-1200.0).,Da giai quyet
+71,5,Tot,2023-12-05,Gia tri Do am (53.89) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+72,12,Tot,2023-12-09,Gia tri Do am (89.06) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+73,11,Tot,2023-12-02,Gia tri Do am dat (75.75) nam trong nguong tieu chuan (20.0-80.0).,Da giai quyet
+74,9,Tot,2023-12-25,Gia tri Do am (61.18) nam trong nguong tieu chuan (50.0-90.0).,Da giai quyet
+75,15,Tot,2023-12-15,Gia tri Nhiet do (23.5) nam trong nguong tieu chuan (15.0-35.0).,Da giai quyet

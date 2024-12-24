@@ -1,0 +1,26 @@
+ScheduleID,CropID,ActivityType,ScheduleDate,Status
+201,102,Tuoi nuoc,2024-05-08,Da hoan thanh
+202,108,Bon phan,2024-10-15,Dang cho
+203,122,Bon phan,2024-05-08,Da hoan thanh
+204,122,Tuoi nuoc,2024-04-27,Da hoan thanh
+205,115,Thu hoach,2024-01-27,Da hoan thanh
+206,105,Thu hoach,2024-04-16,Da hoan thanh
+207,120,Thu hoach,2024-06-15,Da hoan thanh
+208,124,Bon phan,2024-09-28,Dang cho
+209,115,Thu hoach,2024-07-11,Dang cho
+210,105,Bon phan,2024-09-27,Dang thuc hien
+211,103,Thu hoach,2024-05-14,Da hoan thanh
+212,114,Tuoi nuoc,2024-06-13,Da hoan thanh
+213,124,Tuoi nuoc,2024-11-12,Da hoan thanh
+214,121,Thu hoach,2024-01-20,Da hoan thanh
+215,117,Bon phan,2024-04-02,Da hoan thanh
+216,123,Kiem tra sau benh,2024-08-22,Dang cho
+217,110,Bon phan,2024-08-12,Da hoan thanh
+218,115,Bon phan,2024-09-22,Dang thuc hien
+219,107,Kiem tra sau benh,2024-01-20,Da hoan thanh
+220,110,Bon phan,2024-07-25,Dang thuc hien
+221,112,Thu hoach,2024-01-24,Dang cho
+222,118,Kiem tra sau benh,2024-07-23,Dang thuc hien
+223,102,Tuoi nuoc,2024-02-03,Dang cho
+224,110,Tuoi nuoc,2024-05-07,Dang cho
+225,125,Thu hoach,2024-05-03,Dang thuc hien

@@ -1,0 +1,26 @@
+LivestockID,Type,Name,BirthDate,HealthStatus,Breed,Location
+1,Cuu,C1,2022-09-27,Om,Cuu Phan Rang,Khu Chan Nuoi Cuu H
+2,Cuu,C2,2021-04-10,Khoe manh,Cuu Phan Rang,Chuong Ga C
+3,Ga,G1,2019-10-06,Hoi phuc,Ga Luong Phuong,Khu Chan Nuoi Cuu H
+4,Cuu,C3,2019-11-13,Hoi phuc,Cuu Phan Rang,Khu Chan Nuoi Cuu G
+5,Bo,B1,2021-07-18,Om,Bo sua Ha Lan,Chuong Bo A
+6,Bo,B2,2020-01-12,Khoe manh,Bo Brahman,Chuong Ga D
+7,Bo,B3,2023-11-05,Om,Bo vang Viet Nam,Chuong Bo B
+8,Cuu,C4,2021-02-22,Om,Cuu Phan Rang,Khu Chan Nuoi Cuu H
+9,Bo,B4,2023-01-07,Om,Bo Brahman,Chuong Ga D
+10,Ga,G2,2023-02-05,Khoe manh,Ga Luong Phuong,Chuong Bo A
+11,Bo,B5,2021-11-08,Om,Bo vang Viet Nam,Chuong Ga D
+12,Ga,G3,2019-06-10,Khoe manh,Ga Luong Phuong,Chuong Ga C
+13,Bo,B6,2022-03-15,Hoi phuc,Bo Brahman,Khu Dong Co F
+14,Bo,B7,2022-04-16,Khoe manh,Bo sua Ha Lan,Khu Dong Co F
+15,Ga,G4,2022-11-20,Om,Ga Dong Tao,Chuong Ga C
+16,Ga,G5,2022-12-01,Khoe manh,Ga Ri,Khu Chan Nuoi Cuu H
+17,Ga,G6,2020-11-17,Khoe manh,Ga Dong Tao,Chuong Bo B
+18,Bo,B8,2019-10-13,Hoi phuc,Bo sua Ha Lan,Chuong Bo A
+19,Cuu,C5,2021-09-23,Om,Cuu Phan Rang,Chuong Bo A
+20,Ga,G7,2020-04-18,Hoi phuc,Ga Ri,Chuong Ga C
+21,Ga,G8,2021-09-12,Hoi phuc,Ga Luong Phuong,Khu Dong Co F
+22,Bo,B9,2022-03-12,Khoe manh,Bo Brahman,Khu Chan Nuoi Cuu G
+23,Ga,G9,2020-05-19,Hoi phuc,Ga Luong Phuong,Chuong Ga C
+24,Cuu,C6,2020-10-10,Om,Cuu Phan Rang,Khu Chan Nuoi Cuu G
+25,Cuu,C7,2022-05-24,Hoi phuc,Cuu Phan Rang,Khu Chan Nuoi Cuu H

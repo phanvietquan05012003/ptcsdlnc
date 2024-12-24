@@ -1,0 +1,26 @@
+CropID,Name,TypeID,PlantingDate,HarvestDate,Yield,Status,GrowthStage,WaterRequirement,FertilizerRequirement,PestResistance
+101,Xa lach Lolo,1,2024-05-03,2024-04-18,748,Tot,Truong thanh,4,Thap,Cao
+102,Hoa Cuc Tana,2,2024-04-11,2024-11-03,269,Khoe manh,Nu,2,Cao,Trung binh
+103,Dau tay,3,2024-06-19,2024-06-28,526,Tot,Ra qua,3,Trung binh,Thap
+104,Hung que,4,2024-06-24,2024-02-12,223,Thu hoach,Sinh truong,2,Thap,Trung binh
+105,Ca rot,5,2024-10-29,2024-04-08,143,Thu hoach,Phat trien,4,Cao,Thap
+106,Hoa Mao luong,2,2024-05-16,2024-05-09,399,Thu hoach,Nu,2,Trung binh,Trung binh
+107,Ca chua bi,3,2024-11-18,2024-07-23,356,Tot,Ra qua,3,Trung binh,Trung binh
+108,Hoa Thuy tien,2,2024-08-13,2024-10-31,427,Tot,Nu,3,Cao,Trung binh
+109,Dua leo,1,2024-03-05,2024-05-20,491,Thu hoach,Truong thanh,2,Cao,Trung binh
+110,Rau cai bo xoi,1,2024-05-08,2024-08-29,483,Tot,Truong thanh,3,Trung binh,Cao
+111,Hoa Cuc nhi,2,2024-12-28,2024-09-17,974,Thu hoach,Nu,3,Trung binh,Cao
+112,Dau tam,3,2024-11-08,2024-11-01,640,Thu hoach,Ra qua,3,Thap,Thap
+113,Hung lui,4,2024-06-26,2024-11-27,288,Khoe manh,Sinh truong,4,Trung binh,Trung binh
+114,Khoai tay,5,2024-04-12,2024-08-14,995,Khoe manh,Phat trien,1,Cao,Trung binh
+115,Hoa Dong tien,2,2024-09-05,2024-04-19,854,Tot,Nu,3,Thap,Thap
+116,Ca chua,1,2024-09-19,2024-11-08,870,Khoe manh,Truong thanh,1,Thap,Trung binh
+117,Hoa Hong,2,2024-04-04,2024-06-21,199,Khoe manh,Nu,4,Thap,Thap
+118,Dua hau,3,2024-06-04,2024-07-07,488,Thu hoach,Ra qua,4,Cao,Cao
+119,Rau muong,1,2024-06-14,2024-09-14,261,Tot,Truong thanh,2,Thap,Cao
+120,Hoa Cam tu cau,2,2024-05-27,2024-10-03,219,Thu hoach,Nu,2,Trung binh,Cao
+121,Dau tay New Zealand,3,2024-09-03,2024-07-09,168,Khoe manh,Ra qua,5,Thap,Cao
+122,Hung chanh,4,2024-04-26,2024-05-25,782,Thu hoach,Sinh truong,3,Trung binh,Thap
+123,Ca phao,1,2024-03-27,2024-04-21,268,Thu hoach,Truong thanh,2,Cao,Trung binh
+124,Bap cai,1,2024-01-28,2024-02-11,752,Thu hoach,Truong thanh,1,Cao,Thap
+125,Dau Ha Lan,1,2024-10-31,2024-08-18,175,Thu hoach,Truong thanh,3,Cao,Cao
